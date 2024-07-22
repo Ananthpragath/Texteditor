@@ -1,3 +1,5 @@
+# Live preview available at 
+ [https://ananthpragath.github.io/Texteditor](https://ananthpragath.github.io/Texteditor)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
